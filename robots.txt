@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wayofthewindow.github.io/sitemap.xml
