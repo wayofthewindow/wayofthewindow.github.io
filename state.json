@@ -1,8 +1,8 @@
 {
- "fingerprint": "df3a025488caab6e3bd4d1cb08a271f2905d2f9ecd9be05a5f1ca6be2def9b2f",
- "canonVersion": 10,
- "built": "2026-10-09T20:51:10Z",
- "builtHuman": "9 Oct 2026 22:51 (Rome)",
- "councils": 14,
- "rulings": 42
+ "fingerprint": "a7f2c2940dc1e8fe9dca2234fd02a072ecb22768c639e9969a177b714ee27cb0",
+ "canonVersion": 11,
+ "built": "2026-10-10T04:05:08Z",
+ "builtHuman": "10 Oct 2026 06:05 (Rome)",
+ "councils": 15,
+ "rulings": 45
 }
